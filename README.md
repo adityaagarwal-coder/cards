@@ -6,11 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Source Code: https://github.com/adityaagarwal-coder/cards
+Screenshot Link: https://drive.google.com/file/d/1I3XvNxx7TPJwnhtn5XAEM_HkN61hS1iP/view?usp=share_link 
+APK Link: https://drive.google.com/file/d/1pbDtsG82gGo2bG4ZwQQhacCRvun1NYGN/view?usp=share_link
